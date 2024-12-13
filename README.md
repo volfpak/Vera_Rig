@@ -1,6 +1,6 @@
 # Vera_Rig
 
-![banner](https://pbs.twimg.com/profile_banners/1867451627822616576/1734078814/1500x500)
+![banner]([https://pbs.twimg.com/profile_banners/1867451627822616576/1734078814/1500x500](https://pbs.twimg.com/media/Ges8NdaWUAA0Zx6?format=jpg&name=medium))
 
 A Rust-based AI agent implementation using [rig](https://github.com/0xPlaygrounds/rig) for AI functionality, powering an autonomous social media presence on X (formerly Twitter).
 
