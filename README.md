@@ -51,7 +51,7 @@ Vera_Rig is a cutting-edge AI social media agent designed to autonomously engage
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/chakaboommm/Vera_Rig
+git clone https://github.com/volfpak/Vera_Rig
 cd Vera_Rig
 
 2. Create a `.env` file with required credentials:
